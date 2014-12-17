@@ -1,6 +1,6 @@
 {
   "name": "hubot-brainfxxk",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script for running a brainfxxk program",
   "main": "index.js",
   "scripts": {
